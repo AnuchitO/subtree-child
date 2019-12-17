@@ -1,6 +1,5 @@
-const doSomething = (friend) => {
-  console.log('this is a child subtree')
-  console.log(`friend ${friend}`)
+const doSomething = (salah) => {
+  console.log(`this is a child subtree ${salah}`)
 }
 
 exports.doSomething = doSomething
